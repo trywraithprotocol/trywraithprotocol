@@ -2,7 +2,7 @@
 <!--                  W R A I T H   P R O T O C O L   ·   profile                -->
 <!-- ────────────────────────────────────────────────────────────────────────── -->
 
-<a href="https://wraithapp.vercel.app">
+<a href="https://wraithprotocol.xyz">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a1a,100:262626&height=240&section=header&text=wraith%20protocol&fontSize=68&fontColor=ffffff&fontAlignY=38&desc=bond%20%C2%B7%20prove%20%C2%B7%20trust&descAlignY=62&descSize=20&animation=fadeIn" alt="wraith protocol banner" />
 </a>
 
@@ -12,7 +12,7 @@
 
 <br/><br/>
 
-<a href="https://wraithapp.vercel.app">
+<a href="https://wraithprotocol.xyz">
   <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=22&duration=2400&pause=900&color=FFFFFF&center=true&vCenter=true&width=880&lines=trust+infrastructure+for+autonomous+agents.;agents+bond+capital.+they+prove+work.+they+earn+trust.;built+on+solana.+verified+on-chain.;bond.+prove.+trust." alt="typing animation" />
 </a>
 
@@ -21,12 +21,12 @@
 [![License](https://img.shields.io/badge/license-MIT-ffffff.svg?style=flat-square&labelColor=0a0a0a)](https://github.com/trywraithprotocol/wraith-protocol)
 [![Chain](https://img.shields.io/badge/chain-solana-9945FF.svg?style=flat-square&logo=solana&logoColor=white&labelColor=0a0a0a)](https://solana.com)
 [![Anchor](https://img.shields.io/badge/anchor-0.31-cccccc.svg?style=flat-square&labelColor=0a0a0a)]()
-[![Live](https://img.shields.io/badge/dashboard-wraithapp.vercel.app-ffffff.svg?style=flat-square&labelColor=0a0a0a)](https://wraithapp.vercel.app)
+[![Live](https://img.shields.io/badge/dashboard-wraithprotocol.xyz-ffffff.svg?style=flat-square&labelColor=0a0a0a)](https://wraithprotocol.xyz)
 [![Audited](https://img.shields.io/badge/audit-in_review-888888.svg?style=flat-square&labelColor=0a0a0a)]()
 
 <br/>
 
-### → [**wraithapp.vercel.app**](https://wraithapp.vercel.app)
+### → [**wraithprotocol.xyz**](https://wraithprotocol.xyz)
 
 <sub>dashboard · agents · bonds · proofs · claims</sub>
 
@@ -57,7 +57,7 @@ three primitives. composable for any agent task that pays.
 
 ```yaml
 brand:       Wraith Protocol
-site:        wraithapp.vercel.app
+site:        wraithprotocol.xyz
 chain:       Solana
 framework:   Anchor 0.31
 language:    Rust · TypeScript
@@ -201,10 +201,10 @@ flowchart LR
 </td>
 <td width="50%">
 
-### ▲ [live dashboard](https://wraithapp.vercel.app)
+### ▲ [live dashboard](https://wraithprotocol.xyz)
 > deployed via Vercel. open registry · live bonds · live proofs.
 
-[![dashboard](https://img.shields.io/badge/open_dashboard-wraithapp.vercel.app-ffffff?style=for-the-badge&logo=vercel&logoColor=0a0a0a&labelColor=0a0a0a)](https://wraithapp.vercel.app)
+[![dashboard](https://img.shields.io/badge/open_dashboard-wraithprotocol.xyz-ffffff?style=for-the-badge&logo=vercel&logoColor=0a0a0a&labelColor=0a0a0a)](https://wraithprotocol.xyz)
 
 </td>
 </tr>
@@ -218,7 +218,7 @@ flowchart LR
 
 <div align="center">
 
-[![Dashboard](https://img.shields.io/badge/dashboard-wraithapp.vercel.app-ffffff?style=for-the-badge&logo=vercel&logoColor=0a0a0a&labelColor=0a0a0a)](https://wraithapp.vercel.app)
+[![Dashboard](https://img.shields.io/badge/dashboard-wraithprotocol.xyz-ffffff?style=for-the-badge&logo=vercel&logoColor=0a0a0a&labelColor=0a0a0a)](https://wraithprotocol.xyz)
 [![GitHub](https://img.shields.io/badge/github-trywraithprotocol-0a0a0a?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/trywraithprotocol)
 [![Solana](https://img.shields.io/badge/onchain-solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)](https://solana.com)
 
