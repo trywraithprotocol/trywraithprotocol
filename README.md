@@ -1,45 +1,43 @@
-<!-- hermes-box-profile:1780958314 -->
+<!-- hermes-box-profile:1780958995 -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&color=0:FFF7ED,35:F97316,70:0171A9,100:010A26&text=Hermes%20Box&fontColor=ffffff&fontSize=64&fontAlignY=38&desc=managed%20cloud%20hosting%20for%20Hermes%20Agent&descAlignY=60&descSize=18&animation=fadeIn" alt="Hermes Box banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&color=0:FFF7ED,35:F97316,70:0171A9,100:010A26&text=Hermes%20Box&fontColor=ffffff&fontSize=64&fontAlignY=38&desc=self-host%20Hermes%20Agent%20on%20your%20own%20cloud%20server&descAlignY=60&descSize=18&animation=fadeIn" alt="Hermes Box banner" />
 
 <br />
 
 [![Website](https://img.shields.io/badge/tryhermesbox.xyz-live-0171A9?style=for-the-badge)](https://tryhermesbox.xyz)
 [![X](https://img.shields.io/badge/@tryhermesbox-010A26?style=for-the-badge&logo=x&logoColor=white)](https://x.com/tryhermesbox)
-[![Solana](https://img.shields.io/badge/Solana-token-F97316?style=for-the-badge)](https://tryhermesbox.xyz)
+[![Hetzner](https://img.shields.io/badge/Hetzner-self--host-D50C2D?style=for-the-badge)](https://github.com/tryhermesbox/hermes-box)
 
 </div>
 
 ## Hermes Box
 
-Hermes Box is managed cloud hosting for Hermes Agent.
+Hermes Box is the self-hosting and managed deployment layer for Hermes Agent.
 
-Deploy a personal AI assistant on a dedicated cloud server, pay with SOL, connect your messenger, and let the agent work from real infrastructure instead of a temporary browser session.
+The public repo now focuses on owning the machine: provision a Hetzner VPS, install Docker, bootstrap Hermes Agent with cloud-init, attach firewall rules, and keep an inventory of the running server.
 
 ```text
 CA: 8SkYnmx6Te7zfWqbh3k6uPfmdm3q79wJzSJioRW8pump
 ```
 
-## What It Ships
-
-| Surface | What it does |
-| --- | --- |
-| Wallet-first deploy | Start a hosted Hermes Agent instance from a Solana payment flow. |
-| Dedicated server | Give every assistant its own cloud machine and runtime. |
-| Agent dashboard | Manage server status, terminal, logs, email, and integrations. |
-| Messenger-ready | Built around personal agents that can stay online and respond anywhere. |
-| Managed updates | Keep Hermes Agent running without users maintaining their own infra. |
-
 ## Public Repository
 
-[hermes-box](https://github.com/tryhermesbox/hermes-box) contains the public website and product dashboard code.
+[hermes-box](https://github.com/tryhermesbox/hermes-box) is the self-host toolkit for Hermes Agent:
+
+- Hetzner Cloud API provisioning
+- SSH key and firewall setup
+- cloud-init bootstrap
+- Docker Compose runtime
+- systemd service template
+- healthcheck and connect helpers
+- operator docs and examples
 
 ## Stack
 
 ```text
-Next.js · React · TypeScript · Tailwind CSS · Supabase · Firebase · Solana · Vercel
+Node.js · Hetzner Cloud API · cloud-init · Docker Compose · systemd · SSH
 ```
 
 ## Links
